@@ -1,8 +1,7 @@
 # travisci-demo
 
---
 
-[ ![Travis CI Status](https://travis-ci.com/renyaoxiang/travisci-demo.svg?branch=master)](https://travis-ci.com/renyaoxiang/travisci-demo.svg?branch=master)    
+[![Build Status](https://travis-ci.com/renyaoxiang/travisci-demo.svg?branch=master)](https://travis-ci.com/renyaoxiang/travisci-demo)
 
 
 travisci-demo
